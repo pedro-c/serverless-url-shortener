@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "app_name": "url-shortener",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  },
+  "environment_variables": {
+    "BASE_URL": "https://example.com",
+    "DB_NAME": "example.com"
+  }
+}
+
+
